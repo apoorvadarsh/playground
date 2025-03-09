@@ -1,0 +1,6 @@
+# Add your project dependencies here
+synthetic_data_generator
+pandas
+google-genai
+openpyxl
+dotenv

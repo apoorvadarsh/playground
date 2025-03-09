@@ -1,0 +1,3 @@
+from synthetic_data_generator.data_generator import generate_data
+
+generate_data(10)
